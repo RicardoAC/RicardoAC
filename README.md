@@ -10,7 +10,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RicardoAC&theme=merko" />
 </a>
 <a href="https://github.com/RicardoAC/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoAC&layout=compact&langs_count=5&hide=php,java&card_width=320&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoAC&layout=normal&langs_count=5&hide=php,java&card_width=400&theme=merko" />
 </a>
 
 ##
