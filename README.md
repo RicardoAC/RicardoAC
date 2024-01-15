@@ -13,6 +13,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoAC&layout=compact&langs_count=8&card_width=320&theme=merko" />
 </a>
 
+
 ##
 # I'm learning:
 
@@ -32,6 +33,9 @@
   <a href="https://www.linkedin.com/in/ricardo-de-andrade-catarina-071474292/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+![piske-usagi](https://github.com/RicardoAC/RicardoAC/assets/14926412/d49ecb6f-bfd9-4c1f-a28a-97875b04c1d4)
+
 ##
 
-<div class="tenor-gif-embed" data-postid="15998845" data-share-method="host" data-aspect-ratio="1.23552" data-width="100%"><a href="https://tenor.com/view/piske-usagi-pc-laptop-computer-gif-15998845">Piske Usagi Sticker</a>from <a href="https://tenor.com/search/piske-stickers">Piske Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Snake animation](https://github.com/RicardoAC/RicardoAC/blob/output/github-contribution-grid-snake.svg)
+
