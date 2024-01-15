@@ -1,5 +1,7 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Ricardo Catarina.
+![banner (4)](https://github.com/RicardoAC/RicardoAC/assets/14926412/75a11463-d138-4c82-a15e-2312a24ece49)
+
+## 👋 My name is Ricardo Catarina.
+
 
 - 🌱 I’m currently studying Front-end career.
 - 📫 Email: ricardo.andrade.c@hotmail.com / ricardo.a.catarina@gmail.com
