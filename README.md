@@ -35,7 +35,5 @@
 
 ![piske-usagi](https://github.com/RicardoAC/RicardoAC/assets/14926412/d49ecb6f-bfd9-4c1f-a28a-97875b04c1d4)
 
-##
 
-![Snake animation](https://github.com/RicardoAC/RicardoAC/blob/output/github-contribution-grid-snake.svg)
 
