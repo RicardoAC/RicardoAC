@@ -10,13 +10,12 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RicardoAC&theme=merko" />
 </a>
 <a href="https://github.com/RicardoAC/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoAC&layout=compact&langs_count=8&card_width=320&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoAC&layout=compact&langs_count=5&hide=php,java&card_width=320&theme=merko" />
 </a>
 
-
 ##
-# I'm learning:
 
+# I'm learning:
 <div style="display: inline_block"><br>
   <img align="center" alt="Ric-html" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>           
   <img align="center" alt="Ric-css" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
